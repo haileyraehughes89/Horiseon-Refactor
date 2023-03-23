@@ -21,7 +21,7 @@ THEN I find a concise, descriptive title
 
 ## Finished Project:
 [![Screenshot-2023-03-23-at-1-51-08-PM.png](https://i.postimg.cc/3w7vfG4L/Screenshot-2023-03-23-at-1-51-08-PM.png)](https://postimg.cc/68jqyyhR)
-[![Screenshot-2023-03-23-at-1-51-26-PM.png](https://i.postimg.cc/J7y5kbbJ/Screenshot-2023-03-23-at-1-51-26-PM.png)](https://postimg.cc/23DWpL98)
+[![Screenshot-2023-03-23-at-2-31-35-PM.png](https://i.postimg.cc/8PqGGQS3/Screenshot-2023-03-23-at-2-31-35-PM.png)](https://postimg.cc/HV4R0Nj4)
 
 ## Semantic HTML Elements:
 
